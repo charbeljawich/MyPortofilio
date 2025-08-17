@@ -5,7 +5,7 @@
 
     setTimeout(() =>{
       loader.classList.add('hidden');
-    },2500);
+    },1000);
   });
 
   //toggle icon navbar
