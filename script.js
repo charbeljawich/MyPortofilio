@@ -67,22 +67,6 @@ form.addEventListener('submit', async (e) => {
     message: form.message.value
   };
 
-  try {
-    const response = await fetch('https://formspree.io/f/manbzere', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(formData)
-    });
-
-    if (response.ok) {
-      alert("Message sent! I’ll get back to you soon.");
-      form.reset();
-    } else {
-      alert("Oops! Something went wrong.");
-    }
-  } catch (error) {
-    alert("Error sending message. Try again later.");
-  }
-});
+ 
 
 
