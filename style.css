@@ -743,6 +743,24 @@ padding-left: 2rem;
     text-align: center;
   }
 }
+/* Default: show loader */
+.loader {
+  display: block;
+}
+
+/* Hide loader on small screens */
+@media (max-width: 768px) {
+  .loader {
+    display: none;
+  }
+}
+
+/* Hide loader on large screens too */
+@media (min-width: 769px) {
+  .loader {
+    display: none;
+  }
+}
 @media (max-width :371px){
 .home{
   justify-content: center;
