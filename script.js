@@ -5,7 +5,7 @@
 
     setTimeout(() =>{
       loader.classList.add('hidden');
-    },1000);
+    },2500);
   });
 
   //toggle icon navbar
@@ -16,7 +16,7 @@
   menuIcon.onclick =() =>{
     menuIcon.classList.toggle('bx-x');
     navBar.classList.toggle('active');
-  };
+  }
 
   //scroll section
 
@@ -51,22 +51,4 @@ window.onscroll = () => {
     navBar.classList.remove('active');
 
 };
-
-//contact 
-
-const form = document.getElementById('contact-form');
-
-form.addEventListener('submit', async (e) => {
-  e.preventDefault(); // Prevent page reload
-
-  const formData = {
-    name: form.name.value,
-    email: form.email.value,
-    phone: form.phone.value,
-    subject: form.subject.value,
-    message: form.message.value
-  };
-
- 
-
 
