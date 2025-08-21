@@ -53,3 +53,41 @@ window.onscroll = () => {
 
 };
 
+// Handle screen orientation changes
+function handleOrientationChange() {
+  const isLandscape = window.innerWidth > window.innerHeight;
+  
+  if (isLandscape && window.innerWidth < 992) {
+    document.body.classList.add('landscape-mode');
+  } else {
+    document.body.classList.remove('landscape-mode');
+  }
+}
+
+// Initial check
+handleOrientationChange();
+
+// Listen for orientation changes
+window.addEventListener('resize', handleOrientationChange);
+window.addEventListener('orientationchange', handleOrientationChange);
+
+// Add CSS for landscape mode
+const landscapeStyles = `
+  .landscape-mode .home-content {
+    padding-top: 3rem;
+  }
+  
+  .landscape-mode .home-sci {
+    bottom: 3rem;
+  }
+  
+  @media (max-width: 768px) {
+    .landscape-mode .home-content h1 {
+      font-size: 3.8rem;
+    }
+  }
+`;
+
+const styleSheet = document.createElement('style');
+styleSheet.textContent = landscapeStyles;
+document.head.appendChild(styleSheet);
