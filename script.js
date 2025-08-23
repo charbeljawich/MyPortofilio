@@ -1,12 +1,16 @@
 
   //loader sec
-  window.addEventListener("load", () => {
-    const loader = document.querySelector(".loader");
+// script.js
+window.addEventListener("load", () => {
+  const loader = document.querySelector(".loader");
 
-    setTimeout(() =>{
-      loader.classList.add('hidden');
-    },2500);
-  });
+  // Fade out loader after 2 seconds
+  setTimeout(() => {
+    loader.classList.add("fade-out");
+  }, 2000);
+});
+
+
 
   //toggle icon navbar
 
