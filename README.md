@@ -30,4 +30,3 @@ Here are some of my key projects:
 - **Email:** [charbel.jawich2021@outlook.com](mailto:charbel.jawich2021@outlook.com)  
 - **GitHub:** [github.com/charbeljawich](https://github.com/charbeljawich)  
 - **Instagram:** [@charbeljawich_](https://www.instagram.com/charbeljawich_)  
-- **Facebook:** [Facebook Profile](https://www.facebook.com/share/1CBhx2Uv5W/?mibextid=wwXIfr)  
