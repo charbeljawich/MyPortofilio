@@ -18,13 +18,13 @@ Here are some of my key projects:
 - **Technologies:** HTML, CSS, JavaScript  
 - **Live Demo:** [View Here](https://charbeljawich.github.io/ClothingApp/)  
 - **Source Code:** [GitHub Repo](https://github.com/charbeljawich/ClothingApp)
+  
 
-## Features
-- Smooth **animated sections** for home, about, skills, projects, and contact  
-- Interactive **Vanta.js animated background**  
-- Hover effects and transitions for buttons, links, and project cards  
-- Responsive design for mobile and desktop  
-- Clean and modern UI/UX  
+### 2. University Website
+- **Description:** Modern online university website
+- **Technologies:** React.js, Vue.js  
+- **Live Demo:** [View Here](https://charbeljawich.github.io/university-web/)  
+- **Source Code:** [GitHub Repo](https://github.com/charbeljawich/university-web)
 
 ## Contact Me
 - **Email:** [charbel.jawich2021@outlook.com](mailto:charbel.jawich2021@outlook.com)  
