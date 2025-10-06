@@ -6,7 +6,7 @@ This website showcases my skills, projects, and experience as a **Computer and S
 Hi! I'm **Charbel Jawich**, a Computer Engineering student with a love for crafting dynamic and interactive web applications. I enjoy turning ideas into functional and visually appealing solutions.  
 
 **Skills:**  
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** HTML, CSS, JavaScript, React.js  
 - **Backend / Programming:** Java, Python  
 - **Other:** Linux, Web Design, Networking  
 
