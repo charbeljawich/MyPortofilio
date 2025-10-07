@@ -23,8 +23,8 @@ Here are some of my key projects:
 ### 2. University Website
 - **Description:** Modern online university website
 - **Technologies:** React.js, Vue.js  
-- **Live Demo:** [View Here](https://charbeljawich.github.io/university-web/)  
-- **Source Code:** [GitHub Repo](https://github.com/charbeljawich/university-web)
+- **Live Demo:** [View Here](https://charbeljawich.github.io/uni-website/)  
+- **Source Code:** [GitHub Repo](https://github.com/charbeljawich/uni-website)
 
 ## Contact Me
 - **Email:** [charbel.jawich2021@outlook.com](mailto:charbel.jawich2021@outlook.com)  
