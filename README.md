@@ -26,7 +26,16 @@ Here are some of my key projects:
 - **Live Demo:** [View Here](https://charbeljawich.github.io/uni-website/)  
 - **Source Code:** [GitHub Repo](https://github.com/charbeljawich/uni-website)
 
+
+### 3. Real State Website
+- **Description:** Modern online Real State platform.
+- **Technologies:** React.js, Tailwindcss, Farmer Motion  
+- **Live Demo:** [View Here](https://github.com/charbeljawich/tailwindfirstproj)  
+- **Source Code:** [GitHub Repo](https://github.com/charbeljawich/tailwindfirstproj)
+
+  
 ## Contact Me
 - **Email:** [charbel.jawich2021@outlook.com](mailto:charbel.jawich2021@outlook.com)  
 - **GitHub:** [github.com/charbeljawich](https://github.com/charbeljawich)  
-- **Instagram:** [@charbeljawich_](https://www.instagram.com/charbeljawich_)  
+- **Instagram:** [@charbeljawich_](https://www.instagram.com/charbeljawich_)
+- **LinkedIn:** [Charbel Jawich](https://www.linkedin.com/in/charbel-jawich-10b489389/)
